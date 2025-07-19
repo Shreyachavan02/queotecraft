@@ -2,7 +2,7 @@
 
 
 # QueoteCraft 📜✨
-✏️ Inspire, Learn, and Grow! 🚀
+✨ "Inspire. Reflect. Rise!" 🌟
 
 
 ## 🏠 Homepage
