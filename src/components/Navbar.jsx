@@ -7,7 +7,7 @@ export default function Navbar() {
     { to: '/', label: 'Home' },
     { to: '/about', label: 'About' },
     { to: '/contact', label: 'Contact' },
-    { to: '/review', label: 'Reviews' }
+    { to: '/reviews', label: 'Reviews' }
   ];
   return (
     <nav className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 shadow-md sticky top-0 z-20">

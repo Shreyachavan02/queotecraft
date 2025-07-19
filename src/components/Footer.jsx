@@ -19,7 +19,6 @@ export default function Footer() {
             Email
           </a>
         </div>
-        <div className="text-gray-400 text-xs mt-4 md:mt-0 text-center w-full md:w-auto">© 2025 InspireMe. All rights reserved.</div>
       </div>
     </footer>
   );
