@@ -13,17 +13,13 @@ export default function Contact() {
             <h2 className="text-3xl font-extrabold text-pink-600 mb-2">Contact Us</h2>
             <p className="text-gray-700 mb-4 text-lg">We'd love to hear from you! Whether you have feedback, questions, or want to collaborate, our team is here to help.<br/>Reach out using the options below or connect with us on social media.</p>
             <div className="flex flex-col gap-3 items-center md:items-start">
-              <a href="mailto:info@inspireme.com" className="inline-flex items-center gap-2 text-indigo-600 font-semibold hover:text-pink-500 transition text-lg">
+              <a href="mailto:inspireme158@gmail.com" className="inline-flex items-center gap-2 text-indigo-600 font-semibold hover:text-pink-500 transition text-lg">
                 <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M1.5 4.5h21a1.5 1.5 0 0 1 1.5 1.5v12a1.5 1.5 0 0 1-1.5 1.5h-21A1.5 1.5 0 0 1 0 18V6a1.5 1.5 0 0 1 1.5-1.5zm10.5 8.25L3.75 6h16.5L12 12.75zm-9 7.5V7.125l8.25 6.75a1.5 1.5 0 0 0 1.5 0l8.25-6.75V19.5h-18z"/></svg>
                 inspireme158@gmail.com
               </a>
               <a href="https://github.com/Shreyachavan02" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 text-gray-500 hover:text-indigo-600 transition text-lg">
                 <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.438 9.8 8.205 11.387.6.113.82-.262.82-.582 0-.288-.01-1.05-.015-2.06-3.338.726-4.042-1.61-4.042-1.61-.546-1.387-1.333-1.756-1.333-1.756-1.09-.745.083-.73.083-.73 1.205.085 1.84 1.237 1.84 1.237 1.07 1.834 2.807 1.304 3.492.997.108-.775.418-1.305.762-1.605-2.665-.304-5.466-1.332-5.466-5.93 0-1.31.468-2.38 1.236-3.22-.124-.303-.535-1.523.117-3.176 0 0 1.008-.322 3.3 1.23.96-.267 1.98-.399 3-.404 1.02.005 2.04.137 3 .404 2.29-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.873.12 3.176.77.84 1.235 1.91 1.235 3.22 0 4.61-2.803 5.624-5.475 5.92.43.37.823 1.102.823 2.222 0 1.606-.015 2.898-.015 3.293 0 .322.216.698.825.58C20.565 21.796 24 17.297 24 12c0-6.63-5.37-12-12-12z"/></svg>
                 GitHub
-              </a>
-              <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 text-blue-400 hover:text-pink-500 transition text-lg">
-                <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M24 4.557a9.93 9.93 0 0 1-2.828.775 4.932 4.932 0 0 0 2.165-2.724c-.951.564-2.005.974-3.127 1.195A4.92 4.92 0 0 0 16.616 3c-2.73 0-4.942 2.21-4.942 4.932 0 .386.045.763.127 1.124C7.728 8.807 4.1 6.884 1.671 3.965c-.423.724-.666 1.562-.666 2.475 0 1.708.87 3.216 2.188 4.099a4.904 4.904 0 0 1-2.237-.616c-.054 1.997 1.397 3.872 3.448 4.29a4.936 4.936 0 0 1-2.224.084c.627 1.956 2.444 3.377 4.6 3.417A9.867 9.867 0 0 1 0 21.543a13.94 13.94 0 0 0 7.548 2.209c9.057 0 14.009-7.496 14.009-13.986 0-.213-.005-.425-.014-.636A9.936 9.936 0 0 0 24 4.557z"/></svg>
-                Twitter
               </a>
               <div className="bg-indigo-50 rounded-lg p-4 mt-4 w-full max-w-md">
                 <div className="flex items-center gap-2 mb-2">
