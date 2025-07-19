@@ -3,11 +3,11 @@ import React from 'react';
 
 export default function Footer() {
   return (
-    <footer className="bg-white border-t border-indigo-100 py-6 mt-8 shadow-inner">
+    <footer className="bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 sticky bottom-0 w-full border-t border-indigo-100 py-6 shadow-inner z-20">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between px-4 gap-4">
         <div className="flex items-center gap-2 mb-2 md:mb-0">
-          <svg className="w-6 h-6 text-indigo-500" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2a1 1 0 0 1 .894.553l2.382 4.83 5.334.775a1 1 0 0 1 .554 1.707l-3.858 3.762.911 5.312a1 1 0 0 1-1.451 1.054L12 17.347l-4.768 2.506a1 1 0 0 1-1.451-1.054l.911-5.312-3.858-3.762a1 1 0 0 1 .554-1.707l5.334-.775L11.106 2.553A1 1 0 0 1 12 2z"/></svg>
-          <span className="font-bold tracking-wide text-indigo-700">InspireMe</span>
+          <svg className="w-6 h-6 text-yellow-300" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2a1 1 0 0 1 .894.553l2.382 4.83 5.334.775a1 1 0 0 1 .554 1.707l-3.858 3.762.911 5.312a1 1 0 0 1-1.451 1.054L12 17.347l-4.768 2.506a1 1 0 0 1-1.451-1.054l.911-5.312-3.858-3.762a1 1 0 0 1 .554-1.707l5.334-.775L11.106 2.553A1 1 0 0 1 12 2z"/></svg>
+          <span className="font-bold tracking-wide text-white">InspireMe</span>
         </div>
         <div className="flex flex-col md:flex-row items-center gap-2 md:gap-6 text-sm">
           <a href="https://github.com/Shreyachavan02" target="_blank" rel="noopener noreferrer" className="hover:text-indigo-600 transition flex items-center gap-1">

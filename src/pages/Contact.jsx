@@ -1,10 +1,11 @@
 import React from 'react';
 import EmailButton from './EmailButton';
 
+
 export default function Contact() {
   return (
-    <div className="flex items-center justify-center p-10 min-h-[70vh] bg-gradient-to-br from-pink-50 to-indigo-50">
-      <div className="bg-white p-8 rounded-2xl shadow-2xl max-w-3xl w-full border border-pink-100">
+    <div className="flex flex-col items-center justify-center p-10 min-h-[70vh] bg-gradient-to-br from-pink-50 to-indigo-50">
+      <div className="bg-white p-8 rounded-2xl shadow-2xl max-w-3xl w-full border border-pink-100 mb-8">
         <div className="flex flex-col md:flex-row items-center gap-8">
           <div className="flex-shrink-0 flex flex-col items-center">
             <svg className="w-20 h-20 text-pink-500 mb-2" fill="currentColor" viewBox="0 0 24 24"><path d="M21 8V7a5 5 0 0 0-10 0v1a5 5 0 0 0-10 0v9a5 5 0 0 0 5 5h10a5 5 0 0 0 5-5V8zm-2 8a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3V8a3 3 0 0 1 3-3h10a3 3 0 0 1 3 3v8z"/></svg>
@@ -38,6 +39,7 @@ export default function Contact() {
           </div>
         </div>
       </div>
+      
     </div>
   );
 }
